@@ -168,8 +168,13 @@
     display: none !important;
   }
   #Contact .c-icon {
-    margin-right: 10px;
+    /* margin-right: 10px; */
   }
 }
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
+
+.list-inline-item {
+  align-content: center;
+  /* align-content: center; */
+}
